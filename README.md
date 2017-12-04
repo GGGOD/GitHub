@@ -14,10 +14,10 @@
 ### step3
 ![](git_3.png)
 
-### step4
+### step4  為 pull request 取名稱
 ![](git_4.png)
 
-### step5 取名稱 
+### step5  
 ![](git_5.png)
 
 
